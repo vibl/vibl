@@ -1,6 +1,6 @@
 
 My humble creations:
-### Lifetrack
+## Lifetrack
 
 https://github.com/vibl/lifetrack
 
@@ -8,18 +8,18 @@ A versatile quantified self life tracker.
 
 I'm currently working on it.
 
-### trash-prune
+## trash-prune
 
 https://github.com/vibl/trash-prune
 
 A CLI tool for smart file trash emptying (Linux).
 
-### NPMvs
+## NPMvs
 
 - https://github.com/vibl/npmvs-client: the NPMvs client repository (React front-end app).
 - https://github.com/vibl/npmvs-server: the NPMvs server repository (the machinery that collects, analyzes, stores and serves data for NPMvs).
 
-### JSONata-COW
+## JSONata-COW
 
 https://github.com/vibl/jsonata
 
