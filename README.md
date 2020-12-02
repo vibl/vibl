@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**vibl/vibl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+There are four main projects I've created:
+### Lifetrack
 
-Here are some ideas to get you started:
+https://github.com/vibl/lifetrack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A versatile quantified self life tracker.
+
+I'm currently working on it.
+
+### trash-prune
+
+https://github.com/vibl/trash-prune
+
+A CLI tool for smart file trash emptying (Linux).
+
+### NPMvs
+
+- https://github.com/vibl/npmvs-client: the NPMvs client repository (React front-end app).
+- https://github.com/vibl/npmvs-server: the NPMvs server repository (the machinery that collects, analyzes, stores and serves data for NPMvs).
+
+### JSONata-COW
+
+https://github.com/vibl/jsonata
+
+A JSONata fork with COW cloning for the Transform operator.
