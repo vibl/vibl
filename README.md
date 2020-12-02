@@ -16,6 +16,8 @@ A CLI tool for smart file trash emptying (Linux).
 
 ## NPMvs
 
+A tool to compare various statistics about NPM packages and their corresponding GitHub repos.
+
 - https://github.com/vibl/npmvs-client: the NPMvs client repository (React front-end app).
 - https://github.com/vibl/npmvs-server: the NPMvs server repository (the machinery that collects, analyzes, stores and serves data for NPMvs).
 
