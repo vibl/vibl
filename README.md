@@ -1,5 +1,11 @@
 
 My humble creations:
+
+## Image Color Picker
+
+https://github.com/vibl/image-color-picker
+
+A React app to pick colors from images
 ## Lifetrack
 
 https://github.com/vibl/lifetrack
